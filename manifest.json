@@ -1,0 +1,21 @@
+{
+    "name": "Descobrindo Origem do Seu Nome",
+    "short_name": "Name Origins",
+    "description": "Descubra a probabilidade de qual país e sua bandeira baseado no seu nome.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#c02f25",
+    "icons": [
+        {
+            "src": "/icons/nameicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/nameicon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
